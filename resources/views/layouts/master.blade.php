@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="{{asset('vendor/vendors/font-awesome/css/font-awesome.min.css')}}" />
     <link rel="stylesheet" href="{{asset('vendor/vendors/bootstrap-datepicker/bootstrap-datepicker.min.css')}}">
     <link rel="stylesheet" href="{{asset('vendor/css/style.css')}}">
-    <link rel="shortcut icon" href="{{asset('vendor/images/favicon.png')}}" />
+    <link rel="shortcut icon" href="{{asset('vendor/images/dashboard/adlift_logo.jfif')}}" />
   </head>
   <body>
     

@@ -25693,11 +25693,28 @@ dl li {
   color: #000;
 }
 
+
+@media only screen and (min-width: 1300px) {
+
 .menu_divider{
   margin-left: 35px;
   color: grey;
   margin-top: 20px;
   font-weight: 300;
+}
+
+}
+
+
+@media only screen and (max-width: 600px) {
+
+  .menu_divider{
+    margin-left: 0px;
+    color: grey;
+    margin-top: 20px;
+    font-weight: 300;
+  }
+  
 }
 
 
@@ -26300,4 +26317,29 @@ dl li {
   -webkit-flex-grow: 1;
   flex-grow: 1;
 }
-/*# sourceMappingURL=maps/style.css.map */
+
+.card .card-body {
+    padding: 1rem 2rem 1rem !important;
+}
+
+.card-title{
+    color:#000000 !important;
+    font-family:sans-serif !important
+}
+
+.card-title2{
+ color:#161E54 !important
+}
+
+.noti_icons{
+    font-size: 20px;
+    margin-right: 20px;
+}
+
+.list-group-item{
+    margin-top:5px;
+    margin-bottom:5px;
+    border:1px solid grey !important;
+    border-top-width:1px !important;
+    border-radius:10px
+}
